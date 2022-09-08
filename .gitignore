@@ -2,3 +2,8 @@ bin/Debug/net6.0
 obj
 .code-workspace
 .csproj
+.deps.json
+.dll
+.exe
+.pdb
+.runtimeconfig.json
